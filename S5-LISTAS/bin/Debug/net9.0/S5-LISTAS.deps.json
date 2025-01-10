@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "S5-LISTAS/1.0.0": {
+        "runtime": {
+          "S5-LISTAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S5-LISTAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
