@@ -1,0 +1,15 @@
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\bin\Debug\net9.0\S13catálogo-de-revistas.exe
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\bin\Debug\net9.0\S13catálogo-de-revistas.deps.json
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\bin\Debug\net9.0\S13catálogo-de-revistas.runtimeconfig.json
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\bin\Debug\net9.0\S13catálogo-de-revistas.dll
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\bin\Debug\net9.0\S13catálogo-de-revistas.pdb
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.AssemblyInfoInputs.cache
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.AssemblyInfo.cs
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.csproj.CoreCompileInputs.cache
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.sourcelink.json
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.dll
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\refint\S13catálogo-de-revistas.dll
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.pdb
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\S13catálogo-de-revistas.genruntimeconfig.cache
+C:\Users\PC\reopositorio git estructura de datos 2025\estructura-de-datos-2025-Alex\S13catálogo-de-revistas\obj\Debug\net9.0\ref\S13catálogo-de-revistas.dll
